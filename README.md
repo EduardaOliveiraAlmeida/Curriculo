@@ -1,5 +1,5 @@
 # Curriculo
-Meu currículo em HTML
+
+Meu currículo em HTML na primeira linguagem : Português.
 
 
-  Atualizaçoes.
