@@ -15,6 +15,7 @@ Primeiro projeto usando meus conhecimentos
 
 O Bootstrap é uma ferramenta nova para mim e gostei muito de poder explorar mais sobre.
 
+Link do site: https://eduardaoliveiraalmeida.github.io/Curriculo/ 
 
 <div align="center">
 
@@ -22,6 +23,5 @@ O Bootstrap é uma ferramenta nova para mim e gostei muito de poder explorar mai
   
 </div>
 
-link: 
 
 
